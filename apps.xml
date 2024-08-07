@@ -14,16 +14,14 @@
             <apkUrl>https://nch.pl/s/dAG8Ti6wiE4iBsk/download/com.stremio.one.apk</apkUrl>
             <description>Stremio is a one-stop hub for video content aggregation.</description>
         </app>
-        <!-- Add more apps in the Streaming category -->
     </category>
     <category name="Utilities">
         <app>
             <name>Magisk</name>
             <iconUrl>https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png</iconUrl>
-            <apkUrl>https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk-v27.0.apk</apkUrl>
+            <apkUrl>https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk</apkUrl>
             <description>Magisk is a suite of open source software for customizing Android</description>
         </app>
-        <!-- Add more apps in the Utilities category -->
     </category>
     <category name="Games">
         <app>
@@ -32,6 +30,6 @@
             <apkUrl>https://nch.pl/s/fZE6PXJsAL62imF/download/privacy-friendly-solitaire.apk</apkUrl>
             <description>This application is a basic Klondike-Solitaire game for Android</description>
         </app>
-        <!-- Add more apps in the Games category -->
     </category>
 </appStore>
+
