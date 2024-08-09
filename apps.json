@@ -23,7 +23,7 @@
         {
           "name": "Magisk",
           "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
-          "Icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
           "package": "com.topjohnwu.magisk"
         }
       ]
