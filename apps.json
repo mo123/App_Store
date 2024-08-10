@@ -6,14 +6,12 @@
         {
           "name": "Nova Video Player",
           "url": "https://nch.pl/s/stBiES9zHjWJKWo/download/org.courville.nova.apk",
-          "icon": "https://play-lh.googleusercontent.com/e8Bx0rLVoLdeCxnKlicIfAGaCKCOhhFxKSM2H8RlQzGeX9A4VvVa0A6vexKhVBNk3MM=w480-h960",
-          "package": "org.courville.nova"
+          "icon": "https://play-lh.googleusercontent.com/e8Bx0rLVoLdeCxnKlicIfAGaCKCOhhFxKSM2H8RlQzGeX9A4VvVa0A6vexKhVBNk3MM=w480-h960"
         },
         {
           "name": "Stremio",
           "url": "https://nch.pl/s/dAG8Ti6wiE4iBsk/download/com.stremio.one.apk",
-          "icon": "https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs=w480-h960",
-          "package": "com.stremio.one"
+          "icon": "https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs=w480-h960"
         }
       ]
     },
@@ -23,8 +21,7 @@
         {
           "name": "Magisk",
           "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
-          "package": "com.topjohnwu.magisk"
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png"
         }
       ]
     }
