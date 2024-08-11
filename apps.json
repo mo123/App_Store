@@ -8,14 +8,28 @@
           "url": "https://nch.pl/s/stBiES9zHjWJKWo/download/org.courville.nova.apk",
           "icon": "https://play-lh.googleusercontent.com/e8Bx0rLVoLdeCxnKlicIfAGaCKCOhhFxKSM2H8RlQzGeX9A4VvVa0A6vexKhVBNk3MM=w480-h960",
           "package": "org.courville.nova",
-          "description": "NOVA is an open source video player for Android."
+          "description": "Nova is an opeN sOurce Video plAyer designed for tablets, phones and AndroidTV devices"
         },
         {
           "name": "Stremio",
           "url": "https://nch.pl/s/dAG8Ti6wiE4iBsk/download/com.stremio.one.apk",
           "icon": "https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs=w480-h960",
           "package": "com.stremio.one",
-          "description": "Stremio offers a secure, modern and seamless entertainment experience."
+          "description": "Stremio offers a secure, modern and seamless entertainment experience"
+        },
+        {
+          "name": "TikTok Lite",
+          "icon": "https://play-lh.googleusercontent.com/7M1jm5buEE7HU1TXM1lCjp8kX6UcTC4YaI1u0w-wPOy49j8alBr6NmjZwN1pV25yBbs=w480-h960",
+          "url": "https://nch.pl/s/9bmC7Kas6nFe7Dq/download/TikTok%20Lite_35.5.2.apk",
+          "package": "com.zhiliaoapp.musically.go",
+          "description": "TikTok Lite is a global video community that is not just fun. You can find the coolest short videos here and can share highlights from your own life with the world"
+        },
+        {
+          "name": "Tubular",
+          "icon": "https://repository-images.githubusercontent.com/746093504/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
+          "url": "https://nch.pl/s/GQJdkqjtbzq5i5q/download/tubular_v0.27.2.apk",
+          "package": "org.polymorphicshade.tubular",
+          "description": "A fork of NewPipe, a free lightweight YouTube frontend for Android"
         }
       ]
     },
@@ -23,11 +37,107 @@
       "name": "Utilities",
       "apps": [
         {
+          "name": "FLauncher",
+          "icon": "https://play-lh.googleusercontent.com/M5Taa-EJhdYABa7-DfHQCBjz91tZF6hI7O1OBfIX4B9G9y8PnsEEZFRFum1QDX0yovTM=s360",
+          "url": "https://nch.pl/s/oP8LiJYzPdjMT4g/download/flauncher-arm64-v8a-release.apk",
+          "package": "me.efesser.flauncher",
+          "description": "FLauncher is an open-source alternative launcher for Android TV"
+        },
+        {
+          "name": "Aurora Store",
+          "icon": "https://img.utdstc.com/icon/016/41f/01641f1a3a23245e24f1b2ca82eeb2375e08620497879455d94a1faea1b2f6c1:200",
+          "url": "https://nch.pl/s/BpFcyd98Hagi2jX/download/AuroraStore.apk",
+          "package": "com.aurora.store",
+          "description": "Aurora Store is an unofficial, FOSS client to Google Play with an elegant design"
+        },
+        {
+          "name": "Droidify",
+          "icon": "https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "url": "https://nch.pl/s/ZrHXJRgZgyoGzEe/download/Droidify.apk",
+          "package": "com.looker.droidify",
+          "description": "A quick material F-Droid client"
+        },
+        {
+          "name": "AppGallery",
+          "icon": "https://img.utdstc.com/icon/56e/8ea/56e8eae8cf725c5ea30cef9f1030ce3ddf5ccc6ca6cc8e6d5a75c61ced2850f5:200",
+          "url": "https://nch.pl/s/btkNGz4A7CDXJmj/download/com.huawei.appmarket.apk",
+          "package": "com.huawei.appmarket",
+          "description": "AppGallery is the official app distribution platform for HUAWEI devices, boasting a collection of 18 app categories"
+        },
+        {
           "name": "Magisk",
           "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
           "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
           "package": "com.topjohnwu.magisk",
-          "description": "Magisk is an app which helps users to root their device."
+          "description": "Magisk is a suite of open source software for customizing Android"
+        },
+        {
+          "name": "Magisk - MRepo",
+          "icon": "https://f-droid.org/repo/com.sanmer.mrepo/en-US/icon_vsdPnolugK8aRrcPRUnttHc5uvVCepSiXMZe02DpXSg=.png",
+          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo-2.4.4.bf97992-713-release.apk",
+          "package": "dev.sanmer.mrepo",
+          "description": "A modules manager for Magisk, KernelSU and APatch"
+        },
+        {
+          "name": "Magisk - MMRL",
+          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
+          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/app-default-universal-release-2.13.9_alpha-7-2139.apk",
+          "package": "com.dergoogler.mmrl",
+          "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
+        },
+        {
+          "name": "Aggregator News - RSS Reader",
+          "icon": "https://play-lh.googleusercontent.com/Gp28DLRkbeD6Hp7eHmKVRRPtUhvDT9nW8dFCi5BrW8RmjHG6AFdV8Ve2i4XmKYwxFFE=w480-h960",
+          "url": "https://nch.pl/s/5daGyJXbkYNXAqg/download/Aggregator%20News%20-%20RSS%20Reader.apk",
+          "package": "com.and96.aggregator_news",
+          "description": "Aggregator News is an RSS Feed Reader to read news for free, quickly, without ads"
+        },
+        {
+          "name": "LocalSend",
+          "icon": "https://f-droid.org/repo/org.localsend.localsend_app/en-US/icon_dWMGq3-j8OMRJVh9FIZdNi18jl9qo_z2pjjXR-l_oaI=.png",
+          "url": "https://nch.pl/s/69BiDCAxiLRiFQj/download/org.localsend.localsend.apk",
+          "package": "org.localsend.localsend_app",
+          "description": "LocalSend is a free, open-source, cross-platform file sharing tool that allows you to share files to nearby devices"
+        },
+        {
+          "name": "AntennaPod",
+          "icon": "https://play-lh.googleusercontent.com/rPV_M6TAsWimm2n-4_tcpEpW0RQSI0cJNHmoXcEvc2NI_LXv2AthzcyRrLT0baN9Elg=w480-h960",
+          "url": "https://nch.pl/s/oEcJmd33NL3JqwL/download/de.danoeh.antennapod.apk",
+          "package": "de.danoeh.antennapod",
+          "description": "AntennaPod is a podcast player that is completely open"
+        },
+        {
+          "name": "Split APKs Installer",
+          "icon": "https://play-lh.googleusercontent.com/jEiqOnF-ks0pnbYAfO5CIRKtcIj69VGLe1qbcVV0zigGbnLcI5hl7m3blZZqMtBMfAw=w480-h960",
+          "url": "https://nch.pl/s/tqw48P4e3nk54ma/download/split-apks-installer-sai-4-5.apk",
+          "package": "com.aefyr.sai",
+          "description": "SAI is an advanced APK installer with split APK support. It also has simple app backup/export functionality"
+        }
+      ]
+    },
+    {
+      "name": "Games",
+      "apps": [
+        {
+          "name": "Chess",
+          "icon": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c=s360",
+          "url": "https://nch.pl/s/5gXS4DaiCrjkJY7/download/Chess_3.72.apk",
+          "package": "uk.co.aifactory.chessfree",
+          "description": "AI Factory's Chess is the quickest and easiest way to learn Chess on Android"
+        },
+        {
+          "name": "Simple Solitaire",
+          "icon": "https://play-lh.googleusercontent.com/iQCSe06RYkDm3ObZWyExXomKhTY85lsxiNCVLkQVtDIhLkk10uc_KjAm8XNmMMSBc7s=w480-h960",
+          "url": "https://nch.pl/s/DttDaqg5jRCmRGp/download/de.tobiasbielefeld.solitaire.apk",
+          "package": "de.tobiasbielefeld.solitaire",
+          "description": "Now contains 17 different Solitaire games!\nAcesUp, Calculation, Canfield, Forty&Eight, FreeCell, Golf, Grandfather's Clock, Gypsy, Klondike, Mod3, Napoleon's Tomb, Pyramid, SimpleSimon, Spider, TriPeaks, Vegas and Yukon"
+        },
+        {
+          "name": "Lemuroid",
+          "icon": "https://play-lh.googleusercontent.com/2qI4_dJX2OAp1cJi0puGbVCjQfYseEU7iHUi3HxPpF5vT8aErQ6Z6fPn_4SG-FWEwvk=w480-h960",
+          "url": "https://nch.pl/s/kiNGG6g3ny4erZN/download/lemuroid.apk",
+          "package": "com.swordfish.lemuroid",
+          "description": "Lemuroid is an open-source emulation project for Android based on Libretro"
         }
       ]
     }
