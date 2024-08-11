@@ -20,6 +20,12 @@
           "icon": "https://play-lh.googleusercontent.com/7M1jm5buEE7HU1TXM1lCjp8kX6UcTC4YaI1u0w-wPOy49j8alBr6NmjZwN1pV25yBbs=w480-h960",
           "url": "https://nch.pl/s/9bmC7Kas6nFe7Dq/download/TikTok%20Lite_35.5.2.apk",
           "package": "com.zhiliaoapp.musically.go"
+        },
+        {
+          "name": "Tubular",
+          "icon": "https://repository-images.githubusercontent.com/746093504/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
+          "url": "https://nch.pl/s/GQJdkqjtbzq5i5q/download/tubular_v0.27.2.apk",
+          "package": "org.polymorphicshade.tubular"
         }
       ]
     },
@@ -73,6 +79,47 @@
           "icon": "https://play-lh.googleusercontent.com/Gp28DLRkbeD6Hp7eHmKVRRPtUhvDT9nW8dFCi5BrW8RmjHG6AFdV8Ve2i4XmKYwxFFE=w480-h960",
           "url": "https://nch.pl/s/5daGyJXbkYNXAqg/download/Aggregator%20News%20-%20RSS%20Reader.apk",
           "package": "com.and96.aggregator_news"
+        },
+        {
+          "name": "LocalSend",
+          "icon": "https://f-droid.org/repo/org.localsend.localsend_app/en-US/icon_dWMGq3-j8OMRJVh9FIZdNi18jl9qo_z2pjjXR-l_oaI=.png",
+          "url": "https://nch.pl/s/69BiDCAxiLRiFQj/download/org.localsend.localsend.apk",
+          "package": "org.localsend.localsend_app"
+        },
+        {
+          "name": "AntennaPod",
+          "icon": "https://play-lh.googleusercontent.com/rPV_M6TAsWimm2n-4_tcpEpW0RQSI0cJNHmoXcEvc2NI_LXv2AthzcyRrLT0baN9Elg=w480-h960",
+          "url": "https://nch.pl/s/oEcJmd33NL3JqwL/download/de.danoeh.antennapod.apk",
+          "package": "de.danoeh.antennapod"
+        },
+        {
+          "name": "Split APKs Installer",
+          "icon": "https://play-lh.googleusercontent.com/BqwUUeeFTlsrOIb66Gwlar2bKKpVS73yyR0SiV2BZacyCGPid9FSVltx3YTTB6SHHjw=w480-h960",
+          "url": "https://nch.pl/s/tqw48P4e3nk54ma/download/split-apks-installer-sai-4-5.apk",
+          "package": "com.aefyr.sai"
+        }
+      ]
+    },
+    {
+      "name": "Games",
+      "apps": [
+        {
+          "name": "Chess",
+          "icon": "https://play-lh.googleusercontent.com/MIz5PoplSnCXI8rGJpkRegc-7Y1GttatHUqv43X67aoJfC1kqksBuqJgN5T81__847c=s360",
+          "url": "https://nch.pl/s/5gXS4DaiCrjkJY7/download/Chess_3.72.apk",
+          "package": "uk.co.aifactory.chessfree"
+        },
+        {
+          "name": "Simple Solitaire",
+          "icon": "https://play-lh.googleusercontent.com/iQCSe06RYkDm3ObZWyExXomKhTY85lsxiNCVLkQVtDIhLkk10uc_KjAm8XNmMMSBc7s=w480-h960",
+          "url": "https://nch.pl/s/DttDaqg5jRCmRGp/download/de.tobiasbielefeld.solitaire.apk",
+          "package": "de.tobiasbielefeld.solitaire"
+        },
+        {
+          "name": "Lemuroid",
+          "icon": "https://play-lh.googleusercontent.com/2qI4_dJX2OAp1cJi0puGbVCjQfYseEU7iHUi3HxPpF5vT8aErQ6Z6fPn_4SG-FWEwvk=w480-h960",
+          "url": "https://nch.pl/s/kiNGG6g3ny4erZN/download/lemuroid.apk",
+          "package": "com.swordfish.lemuroid"
         }
       ]
     }
