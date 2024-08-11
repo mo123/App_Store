@@ -14,6 +14,12 @@
           "url": "https://nch.pl/s/dAG8Ti6wiE4iBsk/download/com.stremio.one.apk",
           "icon": "https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs=w480-h960",
           "package": "com.stremio.one"
+        },
+        {
+          "name": "TikTok Lite",
+          "icon": "https://play-lh.googleusercontent.com/7M1jm5buEE7HU1TXM1lCjp8kX6UcTC4YaI1u0w-wPOy49j8alBr6NmjZwN1pV25yBbs=w480-h960",
+          "url": "https://nch.pl/s/9bmC7Kas6nFe7Dq/download/TikTok%20Lite_35.5.2.apk",
+          "package": "com.zhiliaoapp.musically.go"
         }
       ]
     },
@@ -21,10 +27,52 @@
       "name": "Utilities",
       "apps": [
         {
+          "name": "FLauncher",
+          "icon": "https://play-lh.googleusercontent.com/M5Taa-EJhdYABa7-DfHQCBjz91tZF6hI7O1OBfIX4B9G9y8PnsEEZFRFum1QDX0yovTM=s360",
+          "url": "https://nch.pl/s/oP8LiJYzPdjMT4g/download/flauncher-arm64-v8a-release.apk",
+          "package": "me.efesser.flauncher"
+        },
+        {
+          "name": "Aurora Store",
+          "icon": "https://img.utdstc.com/icon/016/41f/01641f1a3a23245e24f1b2ca82eeb2375e08620497879455d94a1faea1b2f6c1:200",
+          "url": "https://nch.pl/s/BpFcyd98Hagi2jX/download/AuroraStore.apk",
+          "package": "com.aurora.store"
+        },
+        {
+          "name": "Droidify",
+          "icon": "https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "url": "https://nch.pl/s/ZrHXJRgZgyoGzEe/download/Droidify.apk",
+          "package": "com.looker.droidify"
+        },
+        {
+          "name": "AppGallery",
+          "icon": "https://img.utdstc.com/icon/56e/8ea/56e8eae8cf725c5ea30cef9f1030ce3ddf5ccc6ca6cc8e6d5a75c61ced2850f5:200",
+          "url": "https://nch.pl/s/btkNGz4A7CDXJmj/download/com.huawei.appmarket.apk",
+          "package": "com.huawei.appmarket"
+        },
+        {
           "name": "Magisk",
           "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
           "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
           "package": "com.topjohnwu.magisk"
+        },
+        {
+          "name": "Magisk - MRepo",
+          "icon": "https://f-droid.org/repo/com.sanmer.mrepo/en-US/icon_vsdPnolugK8aRrcPRUnttHc5uvVCepSiXMZe02DpXSg=.png",
+          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo-2.4.4.bf97992-713-release.apk",
+          "package": "dev.sanmer.mrepo"
+        },
+        {
+          "name": "Magisk - MMRL",
+          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
+          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/app-default-universal-release-2.13.9_alpha-7-2139.apk",
+          "package": "com.dergoogler.mmrl"
+        },
+        {
+          "name": "Aggregator News - RSS Reader",
+          "icon": "https://play-lh.googleusercontent.com/Gp28DLRkbeD6Hp7eHmKVRRPtUhvDT9nW8dFCi5BrW8RmjHG6AFdV8Ve2i4XmKYwxFFE=w480-h960",
+          "url": "https://nch.pl/s/5daGyJXbkYNXAqg/download/Aggregator%20News%20-%20RSS%20Reader.apk",
+          "package": "com.and96.aggregator_news"
         }
       ]
     }
