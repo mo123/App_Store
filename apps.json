@@ -138,6 +138,34 @@
           "url": "https://nch.pl/s/kiNGG6g3ny4erZN/download/lemuroid.apk",
           "package": "com.swordfish.lemuroid",
           "description": "Lemuroid is an open-source emulation project for Android based on Libretro"
+        },
+        {
+          "name": "Space Marshals 3",
+          "icon": "https://img.utdstc.com/icon/7dd/969/7dd969e6dac0f7429116287bc09b8219db26f755407f0b15b8d003f26f0899f9:100",
+          "url": "https://nch.pl/s/tanBK9zrZNyqdwJ/download/Space%20Marshals%203_3.1.3_APKPure.xapk",
+          "package": "com.pixelbite.sm3",
+          "description": "This is a story driven action game with an emphasis on stealth and tactical combat. It continues the quirky story from the prequels, but you don't need any previous knowledge to enjoy this one."
+        },
+        {
+          "name": "Super Mario War",
+          "icon": "https://www.zanderware.ca/wp-content/uploads/2017/09/ic_launcher.png",
+          "url": "https://nch.pl/s/q5mxfGAAW7kxjZo/download/Super-Mario-War-1.0.0.apk",
+          "package": "ca.thekidd.supermariowar",
+          "description": "A port of the open-source game Super Mario War to Android and Android TV. The game has a wide variety of modes, piles of levels and items and CPU players. It’s essentially Super Smash Bros mixed with Super Mario World. The game itself is a port of the latest source code (pre 2.0)."
+        },
+        {
+          "name": "Mekorama",
+          "icon": "https://play-lh.googleusercontent.com/Mo1oNuSIkKeTRTE2nlIonj_bIszAFR2ErqpqnnyOSiCbcUJBLkGtOsWXv9u410Kpmwt1=s360",
+          "url": "https://nch.pl/s/eeGzFZbyGRFBCyQ/download/Mekorama_1.7.2.apk",
+          "package": "com.martinmagni.mekorama",
+          "description": "Help a tiny robot stumble home through 50 puzzling mechanical dioramas."
+        },
+        {
+          "name": "Andor's Trail",
+          "icon": "https://play-lh.googleusercontent.com/2i4kn_gKngYjpTinZW9up2Tuh5zTgs1CgB3OHTz9rUIWN03POUhzJn4d_l7h_QM3Sk4=s360",
+          "url": "https://nch.pl/s/4ZRr6ZoRq4bwDPk/download/Andor%27s%20Trail_0.8.9.apk",
+          "package": "com.gpl.rpg.AndorsTrail",
+          "description": "Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story."
         }
       ]
     }
