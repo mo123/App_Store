@@ -30,6 +30,13 @@
           "url": "https://nch.pl/s/GQJdkqjtbzq5i5q/download/tubular_v0.27.2.apk",
           "package": "org.polymorphicshade.tubular",
           "description": "A fork of NewPipe, a free lightweight YouTube frontend for Android"
+        },
+        {
+          "name": "S0undTV for Twitch",
+          "icon": "https://play-lh.googleusercontent.com/_c_vNWoMs3yZ3IyRii9x4IuSjqQDFPy5vTCufmtNmFGO4J4Tqq08RsGRfrl2EdvETM76=w480-h960",
+          "url": "https://nch.pl/s/GackBMBHMk54F2m/download/S0undTV.apk",
+          "package": "com.s0und.s0undtv",
+          "description": "An alternative app to watch the Twitch streaming service for Android TV devices"
         }
       ]
     },
@@ -147,6 +154,27 @@
           "url": "https://nch.pl/s/kDzdPrpLQz9eEn6/download/cassian.telegram.ooa.pro.apk",
           "package": "cassian.telegram.ooa.pro",
           "description": "Welcome to Tevegram : Telegram for TV - an unofficial, tailor-made Telegram client designed exclusively for Android TV, reinventing the way you interact with Telegram features."
+        },
+        {
+          "name": "mpv-android",
+          "icon": "https://play-lh.googleusercontent.com/nNAlk2Feotxb3JMBpfd4aY5Pap46esleX5nvd329IsnI-4FHYqnH9FgDvmytHzNNmfw=w480-h960",
+          "url": "https://nch.pl/s/bwbK6YDBLLF3j5Y/download/mpv-android.apk",
+          "package": "is.xyz.mpv",
+          "description": "mpv-android is a video player for Android based on libmpv."
+        },
+        {
+          "name": "LeanbackLauncher",
+          "icon": "https://play-lh.googleusercontent.com/awItARXnEpTdEoCP7o3aDtMkzRSC5MeLjFHYt5LiUnvtdG0c94f7_2qDeSVEeB_syA=w480-h960",
+          "url": "https://nch.pl/s/QMsXttnH5bQzAj4/download/LeanbackOnFire.apk",
+          "package": "com.amazon.tv.leanbacklauncher",
+          "description": "Leanback on Fire - Google Leanback Launcher on steroids"
+        },
+        {
+          "name": "Daedalus",
+          "icon": "https://f-droid.org/repo/org.itxtech.daedalus/en-US/icon_UtsgiYdLW68Yu96y5Xjwgn-YYZ7KQ5WPxD2DQ_E6eyg=.png",
+          "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/org.itxtech.daedalus.apk",
+          "package": "org.itxtech.daedalus",
+          "description": "No root required Android DNS modifier and Hosts/DNSMasq resolver."
         }
       ]
     },
@@ -183,7 +211,7 @@
         },
         {
           "name": "Super Mario War",
-          "icon": "https://www.zanderware.ca/wp-content/uploads/2017/09/ic_launcher.png",
+          "icon": "https://assets.apk.live/ca.thekidd.smw--2-icon.png",
           "url": "https://nch.pl/s/q5mxfGAAW7kxjZo/download/Super-Mario-War-1.0.0.apk",
           "package": "ca.thekidd.supermariowar",
           "description": "A port of the open-source game Super Mario War to Android and Android TV. The game has a wide variety of modes, piles of levels and items and CPU players. It’s essentially Super Smash Bros mixed with Super Mario World. The game itself is a port of the latest source code (pre 2.0)."
@@ -201,6 +229,13 @@
           "url": "https://nch.pl/s/4ZRr6ZoRq4bwDPk/download/Andor%27s%20Trail_0.8.9.apk",
           "package": "com.gpl.rpg.AndorsTrail",
           "description": "Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story."
+        },
+        {
+          "name": "Moonlight Game Streaming",
+          "icon": "https://play-lh.googleusercontent.com/QGBq_X2ewz_3HUR9AUI3NXcOjfVJd-Mf1l66-3D6zMzF-HN81f_KeZ-shqxRE633I3M=w480-h960",
+          "url": "https://nch.pl/s/pxzQDZtFFL8bTgF/download/Moonlight.apk",
+          "package": "com.limelight",
+          "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs). Mouse, keyboard, and controller input is sent from your Android device to your PC."
         }
       ]
     }
