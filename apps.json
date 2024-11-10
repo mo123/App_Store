@@ -44,48 +44,6 @@
       "name": "Utilities",
       "apps": [
         {
-          "name": "FLauncher",
-          "icon": "https://play-lh.googleusercontent.com/M5Taa-EJhdYABa7-DfHQCBjz91tZF6hI7O1OBfIX4B9G9y8PnsEEZFRFum1QDX0yovTM=s360",
-          "url": "https://nch.pl/s/oP8LiJYzPdjMT4g/download/flauncher-arm64-v8a-release.apk",
-          "package": "me.efesser.flauncher",
-          "description": "FLauncher is an open-source alternative launcher for Android TV"
-        },
-        {
-          "name": "Aurora Store",
-          "icon": "https://img.utdstc.com/icon/016/41f/01641f1a3a23245e24f1b2ca82eeb2375e08620497879455d94a1faea1b2f6c1:200",
-          "url": "https://nch.pl/s/BpFcyd98Hagi2jX/download/AuroraStore.apk",
-          "package": "com.aurora.store",
-          "description": "Aurora Store is an unofficial, FOSS client to Google Play with an elegant design"
-        },
-        {
-          "name": "Droidify",
-          "icon": "https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
-          "url": "https://nch.pl/s/ZrHXJRgZgyoGzEe/download/Droidify.apk",
-          "package": "com.looker.droidify",
-          "description": "A quick material F-Droid client"
-        },
-        {
-          "name": "AppGallery",
-          "icon": "https://img.utdstc.com/icon/56e/8ea/56e8eae8cf725c5ea30cef9f1030ce3ddf5ccc6ca6cc8e6d5a75c61ced2850f5:200",
-          "url": "https://nch.pl/s/btkNGz4A7CDXJmj/download/com.huawei.appmarket.apk",
-          "package": "com.huawei.appmarket",
-          "description": "AppGallery is the official app distribution platform for HUAWEI devices, boasting a collection of 18 app categories"
-        },
-        {
-          "name": "Magisk",
-          "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
-          "package": "com.topjohnwu.magisk",
-          "description": "Magisk is a suite of open source software for customizing Android"
-        },
-        {
-          "name": "Magisk - MRepo",
-          "icon": "https://f-droid.org/repo/com.sanmer.mrepo/en-US/icon_vsdPnolugK8aRrcPRUnttHc5uvVCepSiXMZe02DpXSg=.png",
-          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo-2.4.4.bf97992-713-release.apk",
-          "package": "dev.sanmer.mrepo",
-          "description": "A modules manager for Magisk, KernelSU and APatch"
-        },
-        {
           "name": "Magisk - MMRL",
           "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
           "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/app-default-universal-release-2.13.9_alpha-7-2139.apk",
@@ -121,27 +79,6 @@
           "description": "SAI is an advanced APK installer with split APK support. It also has simple app backup/export functionality"
         },
         {
-          "name": "Amazon Appstore",
-          "icon": "https://img.utdstc.com/icon/5a9/3b2/5a93b29eb3a89c2a55c732530d37e228795ac5f53190fd9e68e0bf5e388af297:200",
-          "url": "https://nch.pl/s/HfHCR8BnMBqAXqT/download/Amazon_App_Store.apk",
-          "package": "com.amazon.venezia",
-          "description": "Amazon AppStore is the official application for Amazon's store of the same name, which is not available through Google Play."
-        },
-        {
-          "name": "Uptodown App Store",
-          "icon": "https://img.utdstc.com/icon/634/90f/63490fbaeaa29c69f3ed50b7dcc8deb8464dad3ed6a2fb746752d02f7a333798:200",
-          "url": "https://nch.pl/s/6Eo85gNds7MBJ4x/download/Uptodown-app-store.apk",
-          "package": "com.uptodown",
-          "description": "Uptodown App Store is a marketplace 100% dedicated to free app downloads. All the apps are available legally and reviewed by Virustotal"
-        },
-        {
-          "name": "APKPure",
-          "icon": "https://image.winudf.com/v2/image/YWRtaW5fU2xpY2UgMS5wbmdfMTUzOTE1MjYwNTY0MQ/icon.png?w=342&fakeurl=1",
-          "url": "https://nch.pl/s/bnptnfTnqKJtJ5y/download/APKPure.apk",
-          "package": "com.apkpure.aegon",
-          "description": "APKPure App is a lightweight yet powerful XAPK / APK download & install tool that allows mobile users to instantly download, install and update Android apps with simple one tap."
-        },
-        {
           "name": "DevCheck",
           "icon": "https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w480-h960",
           "url": "https://nch.pl/s/oQLH3gnKjymSGNA/download/DevCheck.apk",
@@ -163,6 +100,39 @@
           "description": "mpv-android is a video player for Android based on libmpv."
         },
         {
+          "name": "Daedalus",
+          "icon": "https://f-droid.org/repo/org.itxtech.daedalus/en-US/icon_UtsgiYdLW68Yu96y5Xjwgn-YYZ7KQ5WPxD2DQ_E6eyg=.png",
+          "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/org.itxtech.daedalus.apk",
+          "package": "org.itxtech.daedalus",
+          "description": "No root required Android DNS modifier and Hosts/DNSMasq resolver."
+        },
+        {
+          "name": "Magisk",
+          "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
+          "package": "com.topjohnwu.magisk",
+          "description": "Magisk is a suite of open source software for customizing Android"
+        },
+        {
+          "name": "Magisk - MRepo",
+          "icon": "https://f-droid.org/repo/com.sanmer.mrepo/en-US/icon_vsdPnolugK8aRrcPRUnttHc5uvVCepSiXMZe02DpXSg=.png",
+          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo-2.4.4.bf97992-713-release.apk",
+          "package": "dev.sanmer.mrepo",
+          "description": "A modules manager for Magisk, KernelSU and APatch"
+        }
+      ]
+    },
+    {
+      "name": "Utilities2",
+      "apps": [
+        {
+          "name": "FLauncher",
+          "icon": "https://play-lh.googleusercontent.com/M5Taa-EJhdYABa7-DfHQCBjz91tZF6hI7O1OBfIX4B9G9y8PnsEEZFRFum1QDX0yovTM=s360",
+          "url": "https://nch.pl/s/oP8LiJYzPdjMT4g/download/flauncher-arm64-v8a-release.apk",
+          "package": "me.efesser.flauncher",
+          "description": "FLauncher is an open-source alternative launcher for Android TV"
+        },
+        {
           "name": "LeanbackLauncher",
           "icon": "https://play-lh.googleusercontent.com/awItARXnEpTdEoCP7o3aDtMkzRSC5MeLjFHYt5LiUnvtdG0c94f7_2qDeSVEeB_syA=w480-h960",
           "url": "https://nch.pl/s/QMsXttnH5bQzAj4/download/LeanbackOnFire.apk",
@@ -170,11 +140,46 @@
           "description": "Leanback on Fire - Google Leanback Launcher on steroids"
         },
         {
-          "name": "Daedalus",
-          "icon": "https://f-droid.org/repo/org.itxtech.daedalus/en-US/icon_UtsgiYdLW68Yu96y5Xjwgn-YYZ7KQ5WPxD2DQ_E6eyg=.png",
-          "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/org.itxtech.daedalus.apk",
-          "package": "org.itxtech.daedalus",
-          "description": "No root required Android DNS modifier and Hosts/DNSMasq resolver."
+          "name": "Aurora Store",
+          "icon": "https://img.utdstc.com/icon/016/41f/01641f1a3a23245e24f1b2ca82eeb2375e08620497879455d94a1faea1b2f6c1:200",
+          "url": "https://nch.pl/s/BpFcyd98Hagi2jX/download/AuroraStore.apk",
+          "package": "com.aurora.store",
+          "description": "Aurora Store is an unofficial, FOSS client to Google Play with an elegant design"
+        },
+        {
+          "name": "Droidify",
+          "icon": "https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "url": "https://nch.pl/s/ZrHXJRgZgyoGzEe/download/Droidify.apk",
+          "package": "com.looker.droidify",
+          "description": "A quick material F-Droid client"
+        },
+        {
+          "name": "AppGallery",
+          "icon": "https://img.utdstc.com/icon/56e/8ea/56e8eae8cf725c5ea30cef9f1030ce3ddf5ccc6ca6cc8e6d5a75c61ced2850f5:200",
+          "url": "https://nch.pl/s/btkNGz4A7CDXJmj/download/com.huawei.appmarket.apk",
+          "package": "com.huawei.appmarket",
+          "description": "AppGallery is the official app distribution platform for HUAWEI devices, boasting a collection of 18 app categories"
+        },
+        {
+          "name": "Amazon Appstore",
+          "icon": "https://img.utdstc.com/icon/5a9/3b2/5a93b29eb3a89c2a55c732530d37e228795ac5f53190fd9e68e0bf5e388af297:200",
+          "url": "https://nch.pl/s/HfHCR8BnMBqAXqT/download/Amazon_App_Store.apk",
+          "package": "com.amazon.venezia",
+          "description": "Amazon AppStore is the official application for Amazon's store of the same name, which is not available through Google Play."
+        },
+        {
+          "name": "Uptodown App Store",
+          "icon": "https://img.utdstc.com/icon/634/90f/63490fbaeaa29c69f3ed50b7dcc8deb8464dad3ed6a2fb746752d02f7a333798:200",
+          "url": "https://nch.pl/s/6Eo85gNds7MBJ4x/download/Uptodown-app-store.apk",
+          "package": "com.uptodown",
+          "description": "Uptodown App Store is a marketplace 100% dedicated to free app downloads. All the apps are available legally and reviewed by Virustotal"
+        },
+        {
+          "name": "APKPure",
+          "icon": "https://image.winudf.com/v2/image/YWRtaW5fU2xpY2UgMS5wbmdfMTUzOTE1MjYwNTY0MQ/icon.png?w=342&fakeurl=1",
+          "url": "https://nch.pl/s/bnptnfTnqKJtJ5y/download/APKPure.apk",
+          "package": "com.apkpure.aegon",
+          "description": "APKPure App is a lightweight yet powerful XAPK / APK download & install tool that allows mobile users to instantly download, install and update Android apps with simple one tap."
         }
       ]
     },
