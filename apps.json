@@ -86,18 +86,18 @@
           "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
         },
         {
-          "name": "Aggregator News - RSS Reader",
-          "icon": "https://play-lh.googleusercontent.com/Gp28DLRkbeD6Hp7eHmKVRRPtUhvDT9nW8dFCi5BrW8RmjHG6AFdV8Ve2i4XmKYwxFFE=w480-h960",
-          "url": "https://nch.pl/s/5daGyJXbkYNXAqg/download/Aggregator%20News%20-%20RSS%20Reader.apk",
-          "package": "com.and96.aggregator_news",
-          "description": "Aggregator News is an RSS Feed Reader to read news for free, quickly, without ads"
-        },
-        {
           "name": "LocalSend",
           "icon": "https://f-droid.org/repo/org.localsend.localsend_app/en-US/icon_dWMGq3-j8OMRJVh9FIZdNi18jl9qo_z2pjjXR-l_oaI=.png",
           "url": "https://nch.pl/s/69BiDCAxiLRiFQj/download/org.localsend.localsend.apk",
           "package": "org.localsend.localsend_app",
           "description": "LocalSend is a free, open-source, cross-platform file sharing tool that allows you to share files to nearby devices"
+        },
+        {
+          "name": "Aggregator News - RSS Reader",
+          "icon": "https://play-lh.googleusercontent.com/Gp28DLRkbeD6Hp7eHmKVRRPtUhvDT9nW8dFCi5BrW8RmjHG6AFdV8Ve2i4XmKYwxFFE=w480-h960",
+          "url": "https://nch.pl/s/5daGyJXbkYNXAqg/download/Aggregator_News.apk",
+          "package": "com.and96.aggregator_news",
+          "description": "Aggregator News is an RSS Feed Reader to read news for free, quickly, without ads"
         },
         {
           "name": "AntennaPod",
@@ -112,6 +112,41 @@
           "url": "https://nch.pl/s/tqw48P4e3nk54ma/download/split-apks-installer-sai-4-5.apk",
           "package": "com.aefyr.sai",
           "description": "SAI is an advanced APK installer with split APK support. It also has simple app backup/export functionality"
+        },
+        {
+          "name": "Amazon Appstore",
+          "icon": "https://img.utdstc.com/icon/5a9/3b2/5a93b29eb3a89c2a55c732530d37e228795ac5f53190fd9e68e0bf5e388af297:200",
+          "url": "https://nch.pl/s/HfHCR8BnMBqAXqT/download/Amazon_App_Store.apk",
+          "package": "com.amazon.venezia",
+          "description": "Amazon AppStore is the official application for Amazon's store of the same name, which is not available through Google Play."
+        },
+        {
+          "name": "Uptodown App Store",
+          "icon": "https://img.utdstc.com/icon/634/90f/63490fbaeaa29c69f3ed50b7dcc8deb8464dad3ed6a2fb746752d02f7a333798:200",
+          "url": "https://nch.pl/s/6Eo85gNds7MBJ4x/download/Uptodown-app-store.apk",
+          "package": "com.uptodown",
+          "description": "Uptodown App Store is a marketplace 100% dedicated to free app downloads. All the apps are available legally and reviewed by Virustotal"
+        },
+        {
+          "name": "APKPure",
+          "icon": "https://image.winudf.com/v2/image/YWRtaW5fU2xpY2UgMS5wbmdfMTUzOTE1MjYwNTY0MQ/icon.png?w=342&fakeurl=1",
+          "url": "https://nch.pl/s/bnptnfTnqKJtJ5y/download/APKPure.apk",
+          "package": "com.apkpure.aegon",
+          "description": "APKPure App is a lightweight yet powerful XAPK / APK download & install tool that allows mobile users to instantly download, install and update Android apps with simple one tap."
+        },
+        {
+          "name": "DevCheck",
+          "icon": "https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w480-h960",
+          "url": "https://nch.pl/s/oQLH3gnKjymSGNA/download/DevCheck.apk",
+          "package": "flar2.devcheck",
+          "description": "DevCheck provides the most detailed CPU and System-on-a-chip (SOC) info available. See specifications for Bluetooth, GPU, RAM, storage and other hardware in your phone or tablet. See details about your Wi-Fi and mobile networks, including dual SIM info."
+        },
+        {
+          "name": "Tevegram",
+          "icon": "https://play-lh.googleusercontent.com/P3FaTftGSAUIQIqaQdaiB9VVMNMRXYSn1PJrekobah7QEZ0uJYhMi4RFe0Kk5rv9pRY=w480-h960",
+          "url": "https://nch.pl/s/kDzdPrpLQz9eEn6/download/cassian.telegram.ooa.pro.apk",
+          "package": "cassian.telegram.ooa.pro",
+          "description": "Welcome to Tevegram : Telegram for TV - an unofficial, tailor-made Telegram client designed exclusively for Android TV, reinventing the way you interact with Telegram features."
         }
       ]
     },
