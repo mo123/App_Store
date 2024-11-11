@@ -44,13 +44,6 @@
       "name": "Utilities",
       "apps": [
         {
-          "name": "Magisk - MMRL",
-          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
-          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/app-default-universal-release-2.13.9_alpha-7-2139.apk",
-          "package": "com.dergoogler.mmrl",
-          "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
-        },
-        {
           "name": "LocalSend",
           "icon": "https://f-droid.org/repo/org.localsend.localsend_app/en-US/icon_dWMGq3-j8OMRJVh9FIZdNi18jl9qo_z2pjjXR-l_oaI=.png",
           "url": "https://nch.pl/s/69BiDCAxiLRiFQj/download/org.localsend.localsend.apk",
@@ -79,6 +72,13 @@
           "description": "SAI is an advanced APK installer with split APK support. It also has simple app backup/export functionality"
         },
         {
+          "name": "Magisk - MMRL",
+          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
+          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/app-default-universal-release-2.13.9_alpha-7-2139.apk",
+          "package": "com.dergoogler.mmrl",
+          "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
+        },
+        {
           "name": "DevCheck",
           "icon": "https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w480-h960",
           "url": "https://nch.pl/s/oQLH3gnKjymSGNA/download/DevCheck.apk",
@@ -90,7 +90,7 @@
           "icon": "https://play-lh.googleusercontent.com/P3FaTftGSAUIQIqaQdaiB9VVMNMRXYSn1PJrekobah7QEZ0uJYhMi4RFe0Kk5rv9pRY=w480-h960",
           "url": "https://nch.pl/s/kDzdPrpLQz9eEn6/download/cassian.telegram.ooa.pro.apk",
           "package": "cassian.telegram.ooa.pro",
-          "description": "Welcome to Tevegram : Telegram for TV - an unofficial, tailor-made Telegram client designed exclusively for Android TV, reinventing the way you interact with Telegram features."
+          "description": "Welcome to Tevegram : Telegram for TV - an unofficial, tailor-made Telegram client designed exclusively for Android TV."
         },
         {
           "name": "mpv-android",
@@ -219,7 +219,7 @@
           "icon": "https://assets.apk.live/ca.thekidd.smw--2-icon.png",
           "url": "https://nch.pl/s/q5mxfGAAW7kxjZo/download/Super-Mario-War-1.0.0.apk",
           "package": "ca.thekidd.supermariowar",
-          "description": "A port of the open-source game Super Mario War to Android and Android TV. The game has a wide variety of modes, piles of levels and items and CPU players. It’s essentially Super Smash Bros mixed with Super Mario World. The game itself is a port of the latest source code (pre 2.0)."
+          "description": "A port of the open-source game Super Mario War to Android and Android TV. The game has a wide variety of modes, piles of levels and items and CPU players. It’s essentially Super Smash Bros mixed with Super Mario World."
         },
         {
           "name": "Mekorama",
@@ -240,7 +240,7 @@
           "icon": "https://play-lh.googleusercontent.com/QGBq_X2ewz_3HUR9AUI3NXcOjfVJd-Mf1l66-3D6zMzF-HN81f_KeZ-shqxRE633I3M=w480-h960",
           "url": "https://nch.pl/s/pxzQDZtFFL8bTgF/download/Moonlight.apk",
           "package": "com.limelight",
-          "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs). Mouse, keyboard, and controller input is sent from your Android device to your PC."
+          "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs)."
         }
       ]
     }
