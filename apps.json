@@ -46,63 +46,42 @@
         {
           "name": "LocalSend",
           "icon": "https://f-droid.org/repo/org.localsend.localsend_app/en-US/icon_dWMGq3-j8OMRJVh9FIZdNi18jl9qo_z2pjjXR-l_oaI=.png",
-          "url": "https://nch.pl/s/69BiDCAxiLRiFQj/download/org.localsend.localsend.apk",
+          "url": "https://nch.pl/s/HRybJazZsWw4Srn/download/Localsend.apk",
           "package": "org.localsend.localsend_app",
-          "description": "LocalSend is a free, open-source, cross-platform file sharing tool that allows you to share files to nearby devices"
+          "description": "LocalSend is a free, open-source, cross-platform file sharing tool that allows you to share files to nearby devices."
         },
         {
           "name": "Aggregator News - RSS Reader",
           "icon": "https://play-lh.googleusercontent.com/Gp28DLRkbeD6Hp7eHmKVRRPtUhvDT9nW8dFCi5BrW8RmjHG6AFdV8Ve2i4XmKYwxFFE=w480-h960",
           "url": "https://nch.pl/s/5daGyJXbkYNXAqg/download/Aggregator_News.apk",
           "package": "com.and96.aggregator_news",
-          "description": "Aggregator News is an RSS Feed Reader to read news for free, quickly, without ads"
+          "description": "Aggregator News is an RSS Feed Reader to read news for free, quickly, without ads."
         },
         {
           "name": "AntennaPod",
           "icon": "https://play-lh.googleusercontent.com/rPV_M6TAsWimm2n-4_tcpEpW0RQSI0cJNHmoXcEvc2NI_LXv2AthzcyRrLT0baN9Elg=w480-h960",
-          "url": "https://nch.pl/s/oEcJmd33NL3JqwL/download/de.danoeh.antennapod.apk",
+          "url": "https://nch.pl/s/Co8woq4rXN7WHgP/download/Antennapod.apk",
           "package": "de.danoeh.antennapod",
-          "description": "AntennaPod is a podcast player that is completely open"
+          "description": "AntennaPod is a podcast player that is completely open."
         },
         {
           "name": "Split APKs Installer",
           "icon": "https://play-lh.googleusercontent.com/jEiqOnF-ks0pnbYAfO5CIRKtcIj69VGLe1qbcVV0zigGbnLcI5hl7m3blZZqMtBMfAw=w480-h960",
-          "url": "https://nch.pl/s/tqw48P4e3nk54ma/download/split-apks-installer-sai-4-5.apk",
+          "url": "https://nch.pl/s/tqw48P4e3nk54ma/download/split_apks_installer.apk",
           "package": "com.aefyr.sai",
-          "description": "SAI is an advanced APK installer with split APK support. It also has simple app backup/export functionality"
-        },
-        {
-          "name": "Magisk - MMRL",
-          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
-          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/app-default-universal-release-2.13.9_alpha-7-2139.apk",
-          "package": "com.dergoogler.mmrl",
-          "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
+          "description": "SAI is an advanced APK installer with split APK support. It also has simple app backup/export functionality."
         },
         {
           "name": "DevCheck",
           "icon": "https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w480-h960",
           "url": "https://nch.pl/s/oQLH3gnKjymSGNA/download/DevCheck.apk",
           "package": "flar2.devcheck",
-          "description": "DevCheck provides the most detailed CPU and System-on-a-chip (SOC) info available. See specifications for Bluetooth, GPU, RAM, storage and other hardware in your phone or tablet. See details about your Wi-Fi and mobile networks, including dual SIM info."
-        },
-        {
-          "name": "Tevegram",
-          "icon": "https://play-lh.googleusercontent.com/P3FaTftGSAUIQIqaQdaiB9VVMNMRXYSn1PJrekobah7QEZ0uJYhMi4RFe0Kk5rv9pRY=w480-h960",
-          "url": "https://nch.pl/s/kDzdPrpLQz9eEn6/download/cassian.telegram.ooa.pro.apk",
-          "package": "cassian.telegram.ooa.pro",
-          "description": "Welcome to Tevegram : Telegram for TV - an unofficial, tailor-made Telegram client designed exclusively for Android TV."
-        },
-        {
-          "name": "mpv-android",
-          "icon": "https://play-lh.googleusercontent.com/nNAlk2Feotxb3JMBpfd4aY5Pap46esleX5nvd329IsnI-4FHYqnH9FgDvmytHzNNmfw=w480-h960",
-          "url": "https://nch.pl/s/bwbK6YDBLLF3j5Y/download/mpv-android.apk",
-          "package": "is.xyz.mpv",
-          "description": "mpv-android is a video player for Android based on libmpv."
+          "description": "DevCheck provides the most detailed CPU and System-on-a-chip (SOC) info available. See specifications for Bluetooth, GPU, RAM, storage and other hardware in your phone or tablet."
         },
         {
           "name": "Daedalus",
           "icon": "https://f-droid.org/repo/org.itxtech.daedalus/en-US/icon_UtsgiYdLW68Yu96y5Xjwgn-YYZ7KQ5WPxD2DQ_E6eyg=.png",
-          "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/org.itxtech.daedalus.apk",
+          "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/Daedalus.apk",
           "package": "org.itxtech.daedalus",
           "description": "No root required Android DNS modifier and Hosts/DNSMasq resolver."
         },
@@ -116,9 +95,16 @@
         {
           "name": "Magisk - MRepo",
           "icon": "https://f-droid.org/repo/com.sanmer.mrepo/en-US/icon_vsdPnolugK8aRrcPRUnttHc5uvVCepSiXMZe02DpXSg=.png",
-          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo-2.4.4.bf97992-713-release.apk",
+          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo.apk",
           "package": "dev.sanmer.mrepo",
           "description": "A modules manager for Magisk, KernelSU and APatch"
+        },
+        {
+          "name": "Magisk - MMRL",
+          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
+          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/MMRL.apk",
+          "package": "com.dergoogler.mmrl",
+          "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
         }
       ]
     },
@@ -219,7 +205,7 @@
           "icon": "https://assets.apk.live/ca.thekidd.smw--2-icon.png",
           "url": "https://nch.pl/s/q5mxfGAAW7kxjZo/download/Super-Mario-War-1.0.0.apk",
           "package": "ca.thekidd.supermariowar",
-          "description": "A port of the open-source game Super Mario War to Android and Android TV. The game has a wide variety of modes, piles of levels and items and CPU players. It’s essentially Super Smash Bros mixed with Super Mario World."
+          "description": "A port of the open-source game Super Mario War to Android and Android TV. The game has a wide variety of modes, piles of levels and items and CPU players. It’s essentially Super Smash Bros mixed with Super Mario World. The game itself is a port of the latest source code (pre 2.0)."
         },
         {
           "name": "Mekorama",
@@ -240,7 +226,7 @@
           "icon": "https://play-lh.googleusercontent.com/QGBq_X2ewz_3HUR9AUI3NXcOjfVJd-Mf1l66-3D6zMzF-HN81f_KeZ-shqxRE633I3M=w480-h960",
           "url": "https://nch.pl/s/pxzQDZtFFL8bTgF/download/Moonlight.apk",
           "package": "com.limelight",
-          "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs)."
+          "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs). Mouse, keyboard, and controller input is sent from your Android device to your PC."
         }
       ]
     }
