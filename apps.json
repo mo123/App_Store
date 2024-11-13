@@ -84,27 +84,6 @@
           "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/Daedalus.apk",
           "package": "org.itxtech.daedalus",
           "description": "No root required Android DNS modifier and Hosts/DNSMasq resolver."
-        },
-        {
-          "name": "Magisk",
-          "url": "https://nch.pl/s/CJ4ZtqNcCkbCzqB/download/Magisk.apk",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
-          "package": "com.topjohnwu.magisk",
-          "description": "Magisk is a suite of open source software for customizing Android"
-        },
-        {
-          "name": "Magisk - MRepo",
-          "icon": "https://f-droid.org/repo/com.sanmer.mrepo/en-US/icon_vsdPnolugK8aRrcPRUnttHc5uvVCepSiXMZe02DpXSg=.png",
-          "url": "https://nch.pl/s/pLCmi5oAYoy5aDS/download/MRepo.apk",
-          "package": "dev.sanmer.mrepo",
-          "description": "A modules manager for Magisk, KernelSU and APatch"
-        },
-        {
-          "name": "Magisk - MMRL",
-          "icon": "https://play-lh.googleusercontent.com/n7iCnqI6UVdLL7PLrhC95MTnWg3xfcScFTopYvYj9qQIPRElkNJpAr9hdQAQ0Rrb2w=w480-h960",
-          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/MMRL.apk",
-          "package": "com.dergoogler.mmrl",
-          "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android."
         }
       ]
     },
