@@ -55,16 +55,16 @@
         {
           "name": "YouTube ReVanced",
           "icon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/app.revanced.android.youtube.200.webp",
-          "url": "https://nch.pl/s/cB8sT4gG4b7zaww/download/YouTube-ReVanced.apk",
+          "url": "https://nch.pl/s/cB8sT4gG4b7zaww/download/YouTubeReVanced.apk",
           "package": "app.revanced.android.youtube",
-          "description": "YouTube ReVanced is a free, open-source modification of the official YouTube app, offering ad-free viewing and numerous additional features.\\\\nAlso install GmsCore-ReVanced for login support."
+          "description": "YouTube ReVanced is a free, open-source modification of the official YouTube app, offering ad-free viewing and numerous additional features"
         },
         {
           "name": "GMSCore ReVanced",
           "icon": "https://revanced.dev/assets/img/microg.png",
-          "url": "https://nch.pl/s/Dog6mGzM6DNkq3s/download/GmsCore-ReVanced.apk",
+          "url": "https://nch.pl/s/Dog6mGzM6DNkq3s/download/GmsCoreReVanced.apk",
           "package": "app.revanced.android.gms",
-          "description": "GMSCore ReVanced is an open-source alternative to Google Play Services, enabling apps designed for Google services to run on platforms where these services are unavailable."
+          "description": "GMSCore ReVanced is an open-source alternative to Google Play Services"
         }
       ]
     },
