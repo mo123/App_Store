@@ -11,6 +11,13 @@
           "description": "Nova is an opeN sOurce Video plAyer designed for tablets, phones and AndroidTV devices"
         },
         {
+          "name": "Just Video Player",
+          "icon": "https://play-lh.googleusercontent.com/LNF01ydGbukqvbFU9pTcZDSRfi86ipAqSdH0Mksb4vk3B4urmMx5qO37OvYXlBalXBE=w240-h480",
+          "url": "https://nch.pl/s/j3MZymB5dFffSNZ/download/Just.Player.apk",
+          "package": "com.brouken.player",
+          "description": "Android video player based on the ExoPlayer library. It uses ExoPlayer's ffmpeg extentsion with all its audio formats enabled (it can handle even special formats like AC3, EAC3, DTS, DTS HD, TrueHD etc)."
+        },
+        {
           "name": "Stremio",
           "url": "https://nch.pl/s/dAG8Ti6wiE4iBsk/download/com.stremio.one.apk",
           "icon": "https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs=w480-h960",
@@ -27,7 +34,7 @@
         {
           "name": "Tubular",
           "icon": "https://repository-images.githubusercontent.com/746093504/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
-          "url": "https://nch.pl/s/GQJdkqjtbzq5i5q/download/tubular_v0.27.2.apk",
+          "url": "https://nch.pl/s/NoSiQjSND7Y9yeL/download/Tubular.apk",
           "package": "org.polymorphicshade.tubular",
           "description": "A fork of NewPipe, a free lightweight YouTube frontend for Android"
         },
@@ -37,6 +44,27 @@
           "url": "https://nch.pl/s/GackBMBHMk54F2m/download/S0undTV.apk",
           "package": "com.s0und.s0undtv",
           "description": "An alternative app to watch the Twitch streaming service for Android TV devices"
+        },
+        {
+          "name": "Digilog TV",
+          "icon": "https://play-lh.googleusercontent.com/IqeEA2WUSY1sEfXWrw3O9tGlKyH8HkzacRxoKnSkxNkbybh_TdH1biDuAu40Puet9Q=w240-h480",
+          "url": "https://nch.pl/s/AKeNBt7x3DWTcqm/download/Digilogtv.apk",
+          "package": "io.github.aldrinzigmundv.digilogtv",
+          "description": "A free and open-source TV news app"
+        },
+        {
+          "name": "YouTube ReVanced",
+          "icon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/app.revanced.android.youtube.200.webp",
+          "url": "https://nch.pl/s/cB8sT4gG4b7zaww/download/YouTube-ReVanced.apk",
+          "package": "app.revanced.android.youtube",
+          "description": "YouTube ReVanced is a free, open-source modification of the official YouTube app, offering ad-free viewing and numerous additional features.\\\\nAlso install GmsCore-ReVanced for login support."
+        },
+        {
+          "name": "GMSCore ReVanced",
+          "icon": "https://revanced.dev/assets/img/microg.png",
+          "url": "https://nch.pl/s/Dog6mGzM6DNkq3s/download/GmsCore-ReVanced.apk",
+          "package": "app.revanced.android.gms",
+          "description": "GMSCore ReVanced is an open-source alternative to Google Play Services, enabling apps designed for Google services to run on platforms where these services are unavailable."
         }
       ]
     },
@@ -84,6 +112,13 @@
           "url": "https://nch.pl/s/dgJA8EkNfzSpytQ/download/Daedalus.apk",
           "package": "org.itxtech.daedalus",
           "description": "No root required Android DNS modifier and Hosts/DNSMasq resolver."
+        },
+        {
+          "name": "MMRL",
+          "icon": "https://play-lh.googleusercontent.com/RITm4Zs2o6jq_Hn2-tMTb1qT1KIVRagvKQLzlJnM0rjjiYUzYjCKbUF_lp60Krg3IR4=w240-h480",
+          "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/MMRL.apk",
+          "package": "com.dergoogler.mmrl",
+          "description": "MMRL is an Android app that helps manage your own Magisk modules repository"
         }
       ]
     },
@@ -103,6 +138,20 @@
           "url": "https://nch.pl/s/QMsXttnH5bQzAj4/download/LeanbackOnFire.apk",
           "package": "com.amazon.tv.leanbacklauncher",
           "description": "Leanback on Fire - Google Leanback Launcher on steroids"
+        },
+        {
+          "name": "Emotn UI",
+          "icon": "https://image.winudf.com/v2/image1/Y29tLm92ZXJzZWEuYXNsYXVuY2hlcl9pY29uXzE2NDAzNjQyNzJfMDIw/icon.png?w=140&fakeurl=1",
+          "url": "https://nch.pl/s/xd8nCree425WZLs/download/Emotm_UI.apk",
+          "package": "com.oversea.aslauncher",
+          "description": "Emotn UI is a desktop application developed for Android TV devices"
+        },
+        {
+          "name": "Lawnchair",
+          "icon": "https://play-lh.googleusercontent.com/5IKVKRE3DVsCY1BBcD4qe7iN6qzq469ksb-XnUeTcOv-t7Cn_3SkGjZyK0J8ougY_Q=w240-h480",
+          "url": "https://nch.pl/s/zQajFpEsi7ytpfK/download/Lawnchair.apk",
+          "package": "app.lawnchair.nightly",
+          "description": "Lawnchair is a free, open source home screen replacement based on Launcher3 from the Android open source project"
         },
         {
           "name": "Aurora Store",
@@ -163,7 +212,7 @@
           "icon": "https://play-lh.googleusercontent.com/iQCSe06RYkDm3ObZWyExXomKhTY85lsxiNCVLkQVtDIhLkk10uc_KjAm8XNmMMSBc7s=w480-h960",
           "url": "https://nch.pl/s/DttDaqg5jRCmRGp/download/de.tobiasbielefeld.solitaire.apk",
           "package": "de.tobiasbielefeld.solitaire",
-          "description": "Now contains 17 different Solitaire games!\nAcesUp, Calculation, Canfield, Forty&Eight, FreeCell, Golf, Grandfather's Clock, Gypsy, Klondike, Mod3, Napoleon's Tomb, Pyramid, SimpleSimon, Spider, TriPeaks, Vegas and Yukon"
+          "description": "Now contains 17 different Solitaire games!\\\\nAcesUp, Calculation, Canfield, Forty&Eight, FreeCell, Golf, Grandfather's Clock, Gypsy, Klondike, Mod3, Napoleon's Tomb, Pyramid, SimpleSimon, Spider, TriPeaks, Vegas and Yukon"
         },
         {
           "name": "Lemuroid",
@@ -199,6 +248,13 @@
           "url": "https://nch.pl/s/4ZRr6ZoRq4bwDPk/download/Andor%27s%20Trail_0.8.9.apk",
           "package": "com.gpl.rpg.AndorsTrail",
           "description": "Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story."
+        },
+        {
+          "name": "TRIVIA 360",
+          "icon": "https://play-lh.googleusercontent.com/74eQQGmQn7K2ZiocjSQOz-2XQU35Uv0q5QpZb8v7nPc5P1vIickhkHHwEGCNixaW1KSb=w240-h480",
+          "url": "https://nch.pl/s/Yzb3WpRWbrRN79q/download/TRIVIA%20360%20Quiz%20Game_2.4.3.apk",
+          "package": "smartowlapps.com.quiz360",
+          "description": "TRIVIA 360 is a free quiz game you can play on your android"
         },
         {
           "name": "Moonlight Game Streaming",
