@@ -61,10 +61,38 @@
         },
         {
           "name": "GMSCore ReVanced",
-          "icon": "https://revanced.dev/assets/img/microg.png",
+          "icon": "https://revancedextended.com/wp-content/uploads/2023/09/gmscore-icon.webp",
           "url": "https://nch.pl/s/Dog6mGzM6DNkq3s/download/GmsCoreReVanced.apk",
           "package": "app.revanced.android.gms",
           "description": "GMSCore ReVanced is an open-source alternative to Google Play Services"
+        },
+        {
+          "name": "NoTubeTV",
+          "icon": "https://github.com/ycngmn/NoTubeTV/raw/main/assets/NoTubeTV_banner.png",
+          "url": "https://nch.pl/s/XWz3kk8TDaG59DA/download/NoTubeTV.apk",
+          "package": "com.ycngmn.notubetv",
+          "description": "YouTube Leanback for Android TV with 4K, Adblock, SponsorBlock"
+        },
+        {
+          "name": "Vstro Player",
+          "icon": "https://play-lh.googleusercontent.com/WPCJ2QTqxir7sv5sMJYkPbT8j5tZzB7oSfZqdQzj8b5tUoV0OOpQFvWJ2zV3pJwrBA=w240-h480",
+          "url": "https://nch.pl/s/Rt4PCLXPSP92n5K/download/Vstro_Player.apk",
+          "package": "com.vs.vsplayer",
+          "description": "The Vstro Player application that supports XTREAM and STALKER server portal, which is convenient for users to watch Live TV, VOD and Series"
+        },
+        {
+          "name": "FCast Receiver",
+          "icon": "https://grayjay.app/images/Frame-2369.png",
+          "url": "https://nch.pl/s/eJfYsFTnRJQDxgL/download/fcast-release.apk",
+          "package": "com.futo.fcast.receiver",
+          "description": "FCast Receiver: Your Ultimate Wireless Streaming Gateway\nScan the QR code to download the Grayjay sender app to your phone"
+        },
+        {
+          "name": "Screen Mirroring & Casting",
+          "icon": "https://nch.pl/apps/files_sharing/publicpreview/rM5YCkmawbFt4Qz?file=/&fileId=24023965&x=1920&y=1080&a=true&etag=dfd230f5a5c57dbb762dfbe6e9fb4efe",
+          "url": "https://nch.pl/s/kPymMAHDYk32en7/download/Mirroring.apk",
+          "package": "com.bluberry.aircast",
+          "description": "AirPlay Receiver and mirroring app for Android\nScan the QR code to download the sender app on your phone"
         }
       ]
     },
@@ -119,6 +147,13 @@
           "url": "https://nch.pl/s/WWCnSXx5GfMZybt/download/MMRL.apk",
           "package": "com.dergoogler.mmrl",
           "description": "MMRL is an Android app that helps manage your own Magisk modules repository"
+        },
+        {
+          "name": "BrowseHere",
+          "icon": "https://play-lh.googleusercontent.com/sLap5D2ApBRWM_RF3JhWEMefsn1kYE1K9VwSm53PVyHcetvvoK8pKX2yKnP8iCmXWk8q=w240-h480",
+          "url": "https://nch.pl/s/kJTYBNKPy9NKkPT/download/BrowseHere.apk",
+          "package": "com.tcl.browser",
+          "description": "TV browser BrowseHere is one of the most UI refined TV internet web ad-block Videoplay browsers available for free"
         }
       ]
     },
