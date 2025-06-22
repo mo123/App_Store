@@ -54,7 +54,7 @@
         },
         {
           "name": "YouTube ReVanced",
-          "icon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/app.revanced.android.youtube.200.webp",
+          "icon": "https://nch.pl/apps/files_sharing/publicpreview/iE8CW8R8cKExwNg?file=/&fileId=24617039&x=1920&y=1080&a=true&etag=23beca84d701fe7f1001866f6eda09c3",
           "url": "https://nch.pl/s/cB8sT4gG4b7zaww/download/YouTubeReVanced.apk",
           "package": "app.revanced.android.youtube",
           "description": "YouTube ReVanced is a free, open-source modification of the official YouTube app, offering ad-free viewing and numerous additional features"
@@ -67,10 +67,10 @@
           "description": "GMSCore ReVanced is an open-source alternative to Google Play Services"
         },
         {
-          "name": "NoTubeTV",
-          "icon": "https://github.com/ycngmn/NoTubeTV/raw/main/assets/NoTubeTV_banner.png",
-          "url": "https://nch.pl/s/XWz3kk8TDaG59DA/download/NoTubeTV.apk",
-          "package": "com.ycngmn.notubetv",
+          "name": "TizenTube",
+          "icon": "https://nch.pl/apps/files_sharing/publicpreview/ozTgMBQpWZLdNp3?file=/&fileId=24616928&x=1920&y=1080&a=true&etag=bc8fe103da80293ce35eb15473ebe83b",
+          "url": "https://nch.pl/s/JbnEE53oXfH5dRS/download/TizenTube.apk",
+          "package": "io.gh.reisxd.tizentube.cobalt",
           "description": "YouTube Leanback for Android TV with 4K, Adblock, SponsorBlock"
         },
         {
@@ -79,6 +79,13 @@
           "url": "https://nch.pl/s/Rt4PCLXPSP92n5K/download/Vstro_Player.apk",
           "package": "com.vs.vsplayer",
           "description": "The Vstro Player application that supports XTREAM and STALKER server portal, which is convenient for users to watch Live TV, VOD and Series"
+        },
+        {
+          "name": "DUNE - Jellyfin Client",
+          "icon": "https://play-lh.googleusercontent.com/4HqpSrfVpYUaqOKVyRk8G5J7S9eCgp-iqGXUhJCGB0O0XlTmuOOXqRKwdbMnehRlrA=w240-h480",
+          "url": "https://nch.pl/s/2D8NLcfasgGGZn6/download/Dune.androidtv.apk",
+          "package": "org.jellyfin.androidtv",
+          "description": "DUNE is a modified version of the official Jellyfin Android TV client with enhanced UI/UX and additional customization options"
         },
         {
           "name": "FCast Receiver",
@@ -151,9 +158,16 @@
         {
           "name": "BrowseHere",
           "icon": "https://play-lh.googleusercontent.com/sLap5D2ApBRWM_RF3JhWEMefsn1kYE1K9VwSm53PVyHcetvvoK8pKX2yKnP8iCmXWk8q=w240-h480",
-          "url": "https://nch.pl/s/kJTYBNKPy9NKkPT/download/BrowseHere.apk",
+          "url": "https://nch.pl/s/m8QtDdSofm6StkH/download/BrowseHere.apk",
           "package": "com.tcl.browser",
           "description": "TV browser BrowseHere is one of the most UI refined TV internet web ad-block Videoplay browsers available for free"
+        },
+        {
+          "name": "XScreenSaver",
+          "icon": "https://cdn6.aptoide.com/imgs/1/9/d/19d718b4a346dfbfdec164beb4c8d34f_icon.png?w=128",
+          "url": "https://www.jwz.org/xscreensaver/xscreensaver-6.10.apk",
+          "package": "org.jwz.android.xscreensaver",
+          "description": "XScreenSaver is an application that serves as a comprehensive collection of historic and educational graphics demos, functioning as both Daydreams and Live Wallpapers"
         }
       ]
     },
@@ -297,6 +311,20 @@
           "url": "https://nch.pl/s/pxzQDZtFFL8bTgF/download/Moonlight.apk",
           "package": "com.limelight",
           "description": "This app streams games, programs, or your full desktop from a PC on your local network or the Internet running NVIDIA GeForce Experience (NVIDIA-only) or Sunshine (all GPUs). Mouse, keyboard, and controller input is sent from your Android device to your PC."
+        },
+        {
+          "name": "RetroArch",
+          "icon": "https://play-lh.googleusercontent.com/bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s=w240-h480",
+          "url": "https://buildbot.libretro.com/stable/1.21.0/android/RetroArch_aarch64.apk",
+          "package": "com.retroarch",
+          "description": "RetroArch is an open-source project that makes use of a powerful development interface called Libretro."
+        },
+        {
+          "name": "Daijisho",
+          "icon": "https://play-lh.googleusercontent.com/hKDO4wXiHzUG-I0gFG_xKCQc7AN_1Ekjq7ttgu06AKM6B3GN1hgnpFahanlFx-UuDUE=s96",
+          "url": "https://github.com/TapiocaFox/Daijishou/releases/download/v1.4.80/412.apk",
+          "package": "com.magneticchen.daijishou",
+          "description": "Daijisho is a retro launcher that let you manage your retro games libraries"
         }
       ]
     }
